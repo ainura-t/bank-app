@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8874ede-c166-4bfb-99ee-038192876bff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="20Nk08ZctaLut1Vq1CJWrPgIjgw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/example" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/jdbc" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="bank-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8874ede-c166-4bfb-99ee-038192876bff" name="Default Changelist" comment="" />
+      <created>1635892206685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635892206685</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="126" key="#Project_Structure" timestamp="1635902219365">
+      <screen x="58" y="25" width="1382" height="875" />
+    </state>
+    <state x="349" y="126" key="#Project_Structure/58.25.1382.875@58.25.1382.875" timestamp="1635902219365" />
+    <state x="562" y="170" key="#com.intellij.ide.util.MemberChooser" timestamp="1635901906150">
+      <screen x="58" y="25" width="1382" height="875" />
+    </state>
+    <state x="562" y="170" key="#com.intellij.ide.util.MemberChooser/58.25.1382.875@58.25.1382.875" timestamp="1635901906150" />
+    <state x="434" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1635901656091">
+      <screen x="58" y="25" width="1382" height="875" />
+    </state>
+    <state x="434" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/58.25.1382.875@58.25.1382.875" timestamp="1635901656091" />
+    <state width="1340" height="219" key="GridCell.Tab.0.bottom" timestamp="1635902236308">
+      <screen x="58" y="25" width="1382" height="875" />
+    </state>
+    <state width="1340" height="219" key="GridCell.Tab.0.bottom/58.25.1382.875@58.25.1382.875" timestamp="1635902236308" />
+    <state width="1340" height="219" key="GridCell.Tab.0.center" timestamp="1635902236307">
+      <screen x="58" y="25" width="1382" height="875" />
+    </state>
+    <state width="1340" height="219" key="GridCell.Tab.0.center/58.25.1382.875@58.25.1382.875" timestamp="1635902236307" />
+    <state width="1340" height="219" key="GridCell.Tab.0.left" timestamp="1635902236307">
+      <screen x="58" y="25" width="1382" height="875" />
+    </state>
+    <state width="1340" height="219" key="GridCell.Tab.0.left/58.25.1382.875@58.25.1382.875" timestamp="1635902236307" />
+    <state width="1340" height="219" key="GridCell.Tab.0.right" timestamp="1635902236308">
+      <screen x="58" y="25" width="1382" height="875" />
+    </state>
+    <state width="1340" height="219" key="GridCell.Tab.0.right/58.25.1382.875@58.25.1382.875" timestamp="1635902236308" />
+    <state x="349" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1635892211612">
+      <screen x="58" y="25" width="1382" height="875" />
+    </state>
+    <state x="349" y="306" key="com.intellij.ide.util.TipDialog/58.25.1382.875@58.25.1382.875" timestamp="1635892211612" />
+    <state x="509" y="196" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1635900865936">
+      <screen x="58" y="25" width="1382" height="875" />
+    </state>
+    <state x="509" y="196" key="com.intellij.testIntegration.createTest.CreateTestDialog/58.25.1382.875@58.25.1382.875" timestamp="1635900865936" />
+    <state x="331" y="193" width="835" height="538" key="find.popup" timestamp="1635901774335">
+      <screen x="58" y="25" width="1382" height="875" />
+    </state>
+    <state x="331" y="193" width="835" height="538" key="find.popup/58.25.1382.875@58.25.1382.875" timestamp="1635901774335" />
+    <state x="414" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1635892681763">
+      <screen x="58" y="25" width="1382" height="875" />
+    </state>
+    <state x="414" y="214" width="670" height="676" key="search.everywhere.popup/58.25.1382.875@58.25.1382.875" timestamp="1635892681763" />
+  </component>
+</project>
